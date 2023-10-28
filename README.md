@@ -1,2 +1,23 @@
-# SCI-INF
-Repozytorium przechowuje zbiór zadań z pięcioletniego cyklu mojego technikum. Kod źródłowy jest starannie pogrupowany zgodnie z przedmiotami. Każde zadanie zawiera dokumentację, ułatwiającą zrozumienie zastosowanych algorytmów i rozwiązań. To archiwum moich osiągnięć w programowaniu w czasie nauki, stanowiące cenny zasób do powtórki i analizy.
+# Repozytorium Zadań Technikum Informatycznego SCI
+
+Repozytorium przechowuje zbiór zadań z pięcioletniego cyklu nauczania mojego technikum. 
+
+## Zadania z Poszczególnych Przedmiotów
+
+- **Podstawy Informatyki**
+  - **C++**
+    - [`Kalkulator`]()
+    - [`Silnia`]()
+    - [`Tabliczka mnożenia`]()
+
+## Dokumentacja
+
+W każdym zadaniu znajdziesz dokumentację w postaci pliku README.md, która ułatwia zrozumienie zastosowanych algorytmów i rozwiązań. Zadania są starannie pogrupowane zgodnie z przedmiotami, co ułatwia ich identyfikację.
+
+## Cel Repozytorium
+
+To archiwum moich osiągnięć w czasie nauki. Repozytorium stanowi cenny zasób do powtórki i analizy. 
+
+## Dodatkowe Informacje
+
+W przyszłości będę systematycznie rozbudowywał to repozytorium, dodając nowe zadania wraz z ich dokumentacją. Zapraszam do regularnych odwiedzin!
