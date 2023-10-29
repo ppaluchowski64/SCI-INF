@@ -1,4 +1,4 @@
-# Repozytorium Zadań Technikum Informatycznego SCI
+# Repozytorium Zadań z Technikum Informatycznego SCI
 
 Repozytorium przechowuje zbiór zadań z pięcioletniego cyklu nauczania mojego technikum. 
 
