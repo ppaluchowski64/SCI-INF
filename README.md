@@ -1,6 +1,6 @@
 # Repozytorium Zadań z Technikum Informatycznego SCI
 
-Repozytorium przechowuje zbiór zadań z pięcioletniego cyklu nauczania mojego technikum. 
+Repozytorium przechowuje zbiór większości zadań z pięcioletniego cyklu nauczania mojego technikum. 
 
 ## Zadania z Poszczególnych Przedmiotów
 
@@ -21,3 +21,5 @@ To archiwum moich osiągnięć w czasie nauki. Repozytorium stanowi cenny zasób
 ## Dodatkowe Informacje
 
 W przyszłości będę systematycznie rozbudowywał to repozytorium, dodając nowe zadania wraz z ich dokumentacją. Zapraszam do regularnych odwiedzin!
+
+P.S. W ciągu kilkunastu dni postaram się dodać zadania z pierwszej klasy. :-)
