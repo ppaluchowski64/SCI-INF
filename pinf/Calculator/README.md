@@ -10,7 +10,7 @@ Prosty kalkulator napisany w języku C++, który wykonuje podstawowe operacje ar
     - Skorzystaj z terminala, aby uruchomić skompilowany plik wykonywalny.
 
 2. **Wprowadź pierwszą liczbę**:
-    - Program poprosi o wprowadzenie pierwszej liczby. Wpisz liczbę i naciśnij Enter.
+    - Program poprosi o wprowadzenie pierwszej liczby. Wpisz liczbę i naciśnij klawisz zatwierdzający.
 
 3. **Wybierz operację**:
     - Program poprosi o wprowadzenie znaku operacji. Możliwe operacje to:
@@ -21,7 +21,7 @@ Prosty kalkulator napisany w języku C++, który wykonuje podstawowe operacje ar
         - `%` (reszta z dzielenia)
 
 4. **Wprowadź drugą liczbę**:
-    - Program poprosi o wprowadzenie drugiej liczby. Wpisz liczbę i naciśnij Enter.
+    - Program poprosi o wprowadzenie drugiej liczby. Wpisz liczbę i naciśnij klawisz zatwierdzający.
 
 5. **Odczytaj wynik**:
     - Program wyświetli wynik operacji.

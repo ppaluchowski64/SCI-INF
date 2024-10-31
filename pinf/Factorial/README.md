@@ -1,6 +1,6 @@
 # Silnia
 
-Program obliczający silnię z liczby podanej przez użytkownika. Napisany jest napisany w języku C++ i obsługuje błędy wejściowe, takie jak liczby ujemne i zbyt duże wartości, aby uniknąć przepełnienia.
+Program obliczający silnię z liczby podanej przez użytkownika. Napisany jest w języku C++ i obsługuje błędy wejściowe, takie jak liczby ujemne i zbyt duże wartości, aby uniknąć przepełnienia.
 
 ## Działanie
 
@@ -10,17 +10,17 @@ Program obliczający silnię z liczby podanej przez użytkownika. Napisany jest 
     - Skorzystaj z terminala, aby uruchomić skompilowany plik wykonywalny.
 
 2. **Wprowadź liczbę**:
-    - Program poprosi o wprowadzenie liczby. Wpisz liczbę i naciśnij Enter.
+    - Program poprosi o wprowadzenie liczby. Wpisz liczbę i naciśnij klawisz zatwierdzający.
 
 3. **Odczytaj wynik**:
-    - Program wyświetli wynik obliczonej silnii.
+    - Program wyświetli wynik obliczonej silni.
 
 ### Obsługa Błędów
 
 Program wyświetli komunikat o błędzie i zakończy swoje działanie, jeśli:
 - Wprowadzisz nieprawidłową liczbę.
 - Wprowadzisz liczbę ujemną.
-- Wprowadzisz liczbę większą niż maksymalna dopuszczalna wartość, aby obliczyć silnię bez przepełnienia.
+- Wprowadzisz liczbę większą niż maksymalna dopuszczalna wartość, aby uniknąć przepełnienia.
 
 ## Budowa
 
